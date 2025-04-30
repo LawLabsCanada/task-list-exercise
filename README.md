@@ -27,19 +27,11 @@ A simple task list application built with Angular, NGXS for state management, an
 3. Run `yarn start` to start the development server
 4. Navigate to `http://localhost:4200` to view the application
 
-## Project Structure
-
-- `src/app/state` - NGXS state management
-- `src/app/models` - TypeScript interfaces and types
-- `src/app/pages` - Main application pages
-- `src/app/components` - Reusable UI components
-
 ## Development Notes
 
 - All styling is done using TailwindCSS utility classes
 - No SCSS files are used in this project
 - State management is handled through NGXS
-- The application is fully responsive and mobile-friendly
 
 ## Evaluation Criteria
 
@@ -51,7 +43,6 @@ A simple task list application built with Angular, NGXS for state management, an
 
 ## Bonus Points
 
-- Add task categories or priority levels
 - Implement task filtering
 - Add animations for task completion/deletion
 - Implement task editing
