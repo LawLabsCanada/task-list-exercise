@@ -2,7 +2,7 @@
 
 ## Overview
 
-A simple task list application built with Angular, NGXS for state management, and TailwindCSS for styling. This project demonstrates a clean implementation of a task management system with in-memory state management.
+A simple task list application built with Angular, NGXS for state management, and TailwindCSS for styling. This project demonstrates a clean implementation of a task management system with in-memory state management. Candidates have the freedom to implement features and structure the application as they see fit, allowing for creative solutions and personal coding style.
 
 ## Tech Stack
 
@@ -19,7 +19,6 @@ A simple task list application built with Angular, NGXS for state management, an
 - Display tasks in a list format
 - Show task creation date
 - Form validation
-- Responsive design
 
 ## Getting Started
 
@@ -31,9 +30,9 @@ A simple task list application built with Angular, NGXS for state management, an
 ## Project Structure
 
 - `src/app/state` - NGXS state management
-- `src/app/components` - Reusable UI components
-- `src/app/pages` - Main application pages
 - `src/app/models` - TypeScript interfaces and types
+- `src/app/pages` - Main application pages
+- `src/app/components` - Reusable UI components
 
 ## Development Notes
 
