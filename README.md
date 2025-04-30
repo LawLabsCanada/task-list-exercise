@@ -2,7 +2,9 @@
 
 ## Overview
 
-A simple task list application built with Angular, NGXS for state management, and TailwindCSS for styling. This project demonstrates a clean implementation of a task management system with in-memory state management. Candidates have the freedom to implement features and structure the application as they see fit, allowing for creative solutions and personal coding style.
+The goal is to create a simple task list application using Angular, NGXS for state management, and TailwindCSS for styling.
+This exercise is designed to understand a candidate's thought process, problem-solving approach, and programming style.
+Candidates have the freedom to implement features and structure the application as they see fit, allowing for creative solutions and personal coding style.
 
 ## Tech Stack
 
