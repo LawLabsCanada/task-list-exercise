@@ -46,7 +46,6 @@ Candidates have the freedom to implement features and structure the application 
 
 ## 🏆 Bonus Points
 
-- Add task categories or priority levels
 - Implement task filtering
 - Add animations for task completion/deletion
 - Implement task editing

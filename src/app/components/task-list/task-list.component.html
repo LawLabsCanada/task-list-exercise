@@ -1,0 +1,5 @@
+<div class="space-y-4">
+  @for (task of viewModel.tasks(); track task.id) {
+  <app-task-item [task]="task"></app-task-item>
+  }
+</div>
