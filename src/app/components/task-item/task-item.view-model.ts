@@ -19,6 +19,13 @@ export class TaskItemViewModel {
     return task;
   }
 
-  toggleTask = this.store.dispatch(ToggleTask);
-  deleteTask = this.store.dispatch(DeleteTask);
+  toggleTask(): void {
+    const task = this.getTask();
+    this.store.dispatch(new ToggleTask(task.id));
+  }
+
+  deleteTask(): void {
+    const task = this.getTask();
+    this.store.dispatch(new DeleteTask(task.id));
+  }
 } 
