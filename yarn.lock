@@ -1374,10 +1374,10 @@
   resolved "https://registry.yarnpkg.com/@ngtools/webpack/-/webpack-17.3.16.tgz#8e1dce0e964fab6a63f279f1301046a67ec41e61"
   integrity sha512-Wxtiut1o9rj3+HumyXoYWg4iCuPDEt4nf1Y9bRCo3y5evEKp0ZTO7IFPpZLaZ0JGGrpROiQErjvHdDQBOuXwWQ==
 
-"@ngxs/devtools-plugin@^19.0.0":
-  version "19.0.0"
-  resolved "https://registry.yarnpkg.com/@ngxs/devtools-plugin/-/devtools-plugin-19.0.0.tgz#351c46527a1f88fe65e43d15a7bd2b7622287568"
-  integrity sha512-z3O/G0fGeSc/mQRMBWwQ98W+kB0QpIMPZg2FLIubyZwWydouVatjhYck4IDLR/h5i6lq4McKioMK2tn/mXZqnQ==
+"@ngxs/devtools-plugin@^18.2.13":
+  version "18.1.6-dev.master-d290a0e"
+  resolved "https://registry.yarnpkg.com/@ngxs/devtools-plugin/-/devtools-plugin-18.1.6-dev.master-d290a0e.tgz#0e4efcd92e6857e1610457d52a1bf7ba20bd608b"
+  integrity sha512-g1L79chDtsiUIMCYsmVTL05zxmp/lTDmBfwiPeApSvKNa8l+euRuZr2ab0gUhoi8JRd9p2fT3yQFgeFWoOVfCw==
   dependencies:
     tslib "^2.3.0"
 
