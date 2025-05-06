@@ -1,9 +1,25 @@
 <div class="min-h-screen bg-gray-100 py-8">
   <div class="max-w-3xl mx-auto px-4">
     <h1 class="text-3xl font-bold text-gray-900 mb-8">Task List</h1>
-    <div class="bg-white rounded-lg shadow p-6 space-y-6">
-      <app-task-form></app-task-form>
-      <app-task-list></app-task-list>
+    <div class="space-y-6">
+      <div
+        class="flex items-center gap-2 bg-white rounded-lg shadow-lg p-4 justify-between"
+      >
+        <div class="flex items-center gap-4">
+          <i class="ti ti-square-rounded text-green-500"></i>
+          <span class="text-gray-900">Task Item</span>
+        </div>
+        <i class="ti ti-trash text-red-500 pr-2"></i>
+      </div>
+      <div
+        class="flex items-center gap-2 bg-white rounded-lg shadow-lg p-4 justify-between"
+      >
+        <div class="flex items-center gap-4">
+          <i class="ti ti-square-rounded-check-filled text-green-500"></i>
+          <span class="text-gray-900 line-through">Task Item</span>
+        </div>
+        <i class="ti ti-trash text-red-500 pr-2"></i>
+      </div>
     </div>
   </div>
 </div>
