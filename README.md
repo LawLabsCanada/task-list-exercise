@@ -2,16 +2,15 @@
 
 ## 🎯 Overview
 
-The goal is to create a simple task list application using Angular, NGXS for state management, and TailwindCSS for styling.
+The goal is to create a simple task list application using Angular and TailwindCSS for styling.
 This exercise is designed to understand a candidate's thought process, problem-solving approach, and programming style.
 Candidates have the freedom to implement features and structure the application as they see fit, allowing for creative solutions and personal coding style.
 
 ## 🛠️ Tech Stack
 
 - Angular
-- NGXS for state management
 - TailwindCSS (utility-first CSS framework)
-- No backend required - all state managed in memory
+- No backend required - all state managed in memory using Angular services
 
 ## ✨ Features
 
@@ -33,14 +32,13 @@ Candidates have the freedom to implement features and structure the application 
 
 - All styling is done using TailwindCSS utility classes
 - No SCSS files are used in this project
-- State management is handled through NGXS
+- State management is handled through Angular services
 - The application is fully responsive and mobile-friendly
 
 ## 🎯 Evaluation Criteria
 
 - Code organization and structure
 - Component design and reusability
-- State management implementation with NGXS
 - UI/UX implementation with TailwindCSS
 - Code cleanliness and best practices
 
